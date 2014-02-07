@@ -1,0 +1,9 @@
+Lisa Churchman
+
+1. "memory", "assembly", "compiler", "custom"
+2. The code is returning the wrong information. It needs to return
+   options[choice-1] so that the return value is not out of the bounds
+   of the array.
+3. 23423
+4. The array contained: 1, 2, 3
+5. 
